@@ -25,7 +25,7 @@
 #include <pthread.h>
 #endif
 
-#ifndef QTUM_BUILD
+#ifndef CCSCOIN_BUILD
 
 #include <boost/core/null_deleter.hpp>
 #include <boost/log/attributes/clock.hpp>
