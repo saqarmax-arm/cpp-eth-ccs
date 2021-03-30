@@ -21,7 +21,7 @@
 #include <libevm/VMFace.h>
 
 #ifndef CCSCOIN_BUILD
-#include <json/json.h>
+#include <jsoncpp/json/json.h>
 #endif
 #include <functional>
 
