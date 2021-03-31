@@ -16,8 +16,8 @@
 */
 #include "../../GenesisInfo.h"
 
-static dev::h256 const c_genesisStateRootCcScoinTestNetwork("2ebd2f054ed409f4bc77921ce642517eb574470c01772dc26658d016a4ccc825");
-static std::string const c_genesisInfoCcScoinTestNetwork = std::string() +
+static dev::h256 const c_genesisStateRootCcSTestNetwork("2ebd2f054ed409f4bc77921ce642517eb574470c01772dc26658d016a4ccc825");
+static std::string const c_genesisInfoCcSTestNetwork = std::string() +
 R"E(
 {
 	"sealEngine": "NoProof",
